@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# [Project proxyfit] 🎯
 
 
 ## Basic Details
@@ -10,9 +10,9 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Aswin yesudas] - [Carmel College of Engineering & Technology]
+- Member 2: [Siddharth S] - [Carmel College of Engineering & Technology]
+
 
 ### Project Description
 [2-3 lines about what your project does]
