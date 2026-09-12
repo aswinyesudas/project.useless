@@ -37,15 +37,22 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
+git clone <your-repository-url>
+cd <project-folder>
+npm install
+git clone <your-repository-url>
+cd <project-folder>
+npm install
 
 ### Project Documentation
-For Software:
+For Software:![Camera Permission](screenshots/camera-permission.png)
+*The camera access screen where the user can grant permission to the application.*
+
+![Live Detection](screenshots/live-detection.png)
+*The live webcam view showing detected people and their estimated attention direction.*
+
+![Final Result](screenshots/final-result.png)
+*The final result showing how many people appear to be looking at the user along with the project's humorous conclusion.*
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -58,8 +65,8 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow](screenshots/workflow.png)
+*Workflow showing the process from webcam input through person detection, face/orientation analysis, attention calculation, and the final humorous result.*
 
 For Hardware:
 
@@ -89,9 +96,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [aswin yesudas]: [project planing,coding]
+- [siddahrth s]: [project planing desinging]
+- 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
